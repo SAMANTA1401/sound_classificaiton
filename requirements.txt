@@ -1,0 +1,7 @@
+# soundata
+librosa
+matplotlib
+pandas
+# numpy
+sounddevice
+tensorflow-cpu

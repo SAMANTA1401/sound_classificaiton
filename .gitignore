@@ -160,3 +160,16 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+fold1
+fold2
+fold3
+fold4
+fold5
+fold6
+fold7
+fold8
+fold9
+fold10
+UrbanSound8K.csv
+
